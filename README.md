@@ -9,11 +9,17 @@ Ombot!
 Ombot is a (slightly) interactive bot to add to servers. Using the ‘/’ prefix, Ombot can:
 
 /commands: Give all of the available commands (it’s just this list, but in discord, wow)
+
 /react: Reacts to the message, more of a test than anything else
+
 /hello: Really simple, just says hi to you
+
 /face: Prints out a little ascii face
+
 /tarot: Gives you a tarot reading
+
 /maze: Makes a playable (still not randomized >_<) maze
+
 /tic: Creates a tic-tac-toe board to play against the player. (ombot might cheat just a bit ;) )
 
 And a super-secret super-annoying dad joke function!
