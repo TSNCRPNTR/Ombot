@@ -33,6 +33,6 @@ ticBotAi takes the current state of the board, and iterates through each row, co
 
 Along with that, it’s got some secret responses, hidden in the code for only I to see. Try doing something like /beep, /boop, or /hey ombot.
 
-It was good to get back in and relearn some python. I had a bit of experience when I was super young, but nothing more than "wow I printed a list," so i'm glad to see how far my coding's come.
+It was good to get back in and relearn some python. I had a bit of experience when I was super young, but nothing more than "wow I printed a list," so I'm glad to see how far my coding's come.
 
 (also yeah, the code could use some cleaning up, I made half of it in my calc class, and the other half at 1am, cut me some slack)
