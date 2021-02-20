@@ -1,7 +1,8 @@
 ## Ombot
 
 !!! USE V2, V1 IS AN OLDER VERSION !!!
-(sorry if the formatting for this seems super cheesy, I had to do it that way for the rubric)
+
+(sorry if the formatting for this readme seems super cheesy, I had to do it that way for the rubric)
 
 Hi, my name is Tyson. I’m a student in an AP Computer Science class, tasked with making an interactive discord bot in Python. Introducing...
 
